@@ -21,7 +21,8 @@ def preprocess_raw_data(file_path):
     # The columns are typically named weekX_judgeY_score
     score_cols = [c for c in df.columns if 'judge' in c and 'score' in c]
     # Added 'ballroom_partner' to id_vars for Gender Inference (Task 5.5)
-    id_vars = ['celebrity_name', 'season', 'results', 'placement', 'celebrity_industry', 'ballroom_partner']
+    # Added 'celebrity_age_during_season' for Q3 SHAP Analysis
+    id_vars = ['celebrity_name', 'season', 'results', 'placement', 'celebrity_industry', 'ballroom_partner', 'celebrity_age_during_season']
     
     # Pivot from Wide to Long format
     df_long = df.melt(id_vars=id_vars, value_vars=score_cols, 
@@ -36,7 +37,7 @@ def preprocess_raw_data(file_path):
     # Group by week to get the AVERAGE judge score per person
     # User requirement: Arithmetic mean of valid scores
     # dropna=False is crucial to keep rows where grouping keys might be NaN
-    weekly_scores = df_long.groupby(['season', 'week', 'celebrity_name', 'results', 'placement', 'celebrity_industry', 'ballroom_partner'], dropna=False)['score'].mean().reset_index()
+    weekly_scores = df_long.groupby(['season', 'week', 'celebrity_name', 'results', 'placement', 'celebrity_industry', 'ballroom_partner', 'celebrity_age_during_season'], dropna=False)['score'].mean().reset_index()
     
     # User requirement: Treat 0 average score as NaN (to break lines in plots)
     # Also ensure existing NaNs are kept as NaNs (don't fill them with 0)
