@@ -157,8 +157,8 @@ def compare_importance(shap_dict, feature_names, output_dir, file_prefix=""):
         
         # Calculate mean absolute SHAP value per feature
         if isinstance(vals, list): # For some shap outputs
-             vals = vals[0]
-             
+            vals = vals[0]
+            
         mean_abs_shap = np.abs(vals).mean(axis=0)
         
         # Normalize to sum to 1 for fair comparison across different target scales
