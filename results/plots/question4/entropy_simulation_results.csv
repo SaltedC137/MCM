@@ -1,0 +1,336 @@
+season,week,elim_actual,elim_sim,elim_actual_j_rank,elim_sim_j_rank,save_triggered,w_j,w_v
+1,1,Evander Holyfield,Evander Holyfield,4.0,4.0,True,0.35,0.65
+1,2,Evander Holyfield,Evander Holyfield,6.0,6.0,True,0.35,0.65
+1,3,Evander Holyfield,Kelly Monaco,5.0,4.0,False,0.4633409963298751,0.5366590036701249
+1,4,Evander Holyfield,Joey McIntyre,,4.0,False,0.35,0.65
+1,5,Evander Holyfield,Evander Holyfield,,,False,0.35,0.65
+1,6,Evander Holyfield,Evander Holyfield,,,False,0.35,0.65
+2,1,George Hamilton,Master P,8.0,10.0,True,0.5144689777152794,0.48553102228472056
+2,2,George Hamilton,Master P,5.0,9.0,True,0.4278390584057371,0.5721609415942629
+2,3,George Hamilton,Master P,5.0,8.0,True,0.35,0.65
+2,4,George Hamilton,Master P,6.0,7.0,True,0.65,0.35
+2,5,George Hamilton,Jerry Rice,4.0,5.0,False,0.35,0.65
+2,6,George Hamilton,Jerry Rice,4.0,4.0,True,0.35,0.65
+2,7,George Hamilton,Jerry Rice,,4.0,True,0.35,0.65
+2,8,George Hamilton,Drew Lachey,,1.0,False,0.35,0.65
+3,1,Harry Hamlin,Tucker Carlson,8.0,11.0,True,0.35,0.65
+3,2,Harry Hamlin,Shanna Moakler,7.0,6.0,False,0.35,0.65
+3,3,Harry Hamlin,Emmitt Smith,4.0,9.0,True,0.35,0.65
+3,4,Harry Hamlin,Sara Evans,,8.0,True,0.35,0.65
+3,5,Harry Hamlin,Sara Evans,,6.0,True,0.35,0.65
+3,6,Harry Hamlin,Emmitt Smith,,2.0,False,0.35,0.65
+3,7,Harry Hamlin,Jerry Springer,,5.0,True,0.35,0.65
+3,8,Harry Hamlin,Monique Coleman,,4.0,True,0.35,0.65
+3,9,Harry Hamlin,Emmitt Smith,,1.0,False,0.35,0.65
+3,10,Harry Hamlin,Emmitt Smith,,1.0,False,0.35,0.65
+4,1,Billy Ray Cyrus,Billy Ray Cyrus,11.0,11.0,True,0.35,0.65
+4,2,Billy Ray Cyrus,Clyde Drexler,6.0,11.0,True,0.35,0.65
+4,3,Billy Ray Cyrus,Clyde Drexler,6.0,10.0,True,0.35,0.65
+4,4,Billy Ray Cyrus,Leeza Gibbons,5.0,7.0,False,0.35,0.65
+4,5,Billy Ray Cyrus,Clyde Drexler,7.0,8.0,True,0.3838933286295487,0.6161066713704513
+4,6,Billy Ray Cyrus,John Ratzenberger,6.0,7.0,True,0.35,0.65
+4,7,Billy Ray Cyrus,Billy Ray Cyrus,6.0,6.0,True,0.35,0.65
+4,8,Billy Ray Cyrus,Billy Ray Cyrus,5.0,5.0,True,0.35,0.65
+4,9,Billy Ray Cyrus,Ian Ziering,,4.0,True,0.35,0.65
+4,10,Billy Ray Cyrus,Apolo Anton Ohno,,1.0,False,0.35,0.65
+5,1,Albert Reed,Josie Maran,5.0,12.0,True,0.35,0.65
+5,2,Albert Reed,Wayne Newton,5.0,11.0,True,0.35,0.65
+5,3,Albert Reed,Wayne Newton,,10.0,True,0.35,0.65
+5,4,Albert Reed,Floyd Mayweather Jr. ,,8.0,False,0.35,0.65
+5,5,Albert Reed,Mark Cuban,,7.0,False,0.35,0.65
+5,6,Albert Reed,Jane Seymour,,7.0,True,0.35,0.65
+5,7,Albert Reed,Jane Seymour,,6.0,True,0.35,0.65
+5,8,Albert Reed,Cameron Mathison,,3.0,False,0.35,0.65
+5,9,Albert Reed,Marie Osmond,,4.0,True,0.35,0.65
+5,10,Albert Reed,Albert Reed,,,False,0.35,0.65
+6,1,Adam Carolla,Adam Carolla,11.0,11.0,True,0.35,0.65
+6,2,Adam Carolla,Monica Seles,9.0,12.0,False,0.5909467687080766,0.4090532312919234
+6,3,Adam Carolla,Steve Guttenberg,6.0,6.0,False,0.35,0.65
+6,4,Adam Carolla,Adam Carolla,9.0,9.0,True,0.35,0.65
+6,5,Adam Carolla,Priscilla Presley,,8.0,True,0.35,0.65
+6,6,Adam Carolla,Marlee Matlin,,7.0,True,0.35,0.65
+6,7,Adam Carolla,Cristian de la Fuente,,6.0,True,0.35,0.65
+6,8,Adam Carolla,Marissa Jaret Winokur,,5.0,True,0.35,0.65
+6,9,Adam Carolla,Marissa Jaret Winokur,,4.0,True,0.35,0.65
+6,10,Adam Carolla,Adam Carolla,,,False,0.35,0.65
+7,1,Cloris Leachman,Jeffrey Ross,12.0,13.0,True,0.4049951351229135,0.5950048648770865
+7,2,Cloris Leachman,Kim Kardashian,11.0,9.0,False,0.35,0.65
+7,3,Cloris Leachman,Cloris Leachman,9.0,9.0,True,0.35,0.65
+7,4,Cloris Leachman,Rocco DiSpirito,5.0,9.0,True,0.35,0.65
+7,5,Cloris Leachman,Toni Braxton,7.0,5.0,False,0.35,0.65
+7,6,Cloris Leachman,Cloris Leachman,7.0,7.0,True,0.35,0.65
+7,7,Cloris Leachman,Warren Sapp,,6.0,True,0.35,0.65
+7,8,Cloris Leachman,Maurice Greene,,4.0,False,0.35,0.65
+7,9,Cloris Leachman,Cody Linley,,4.0,True,0.35,0.65
+7,10,Cloris Leachman,Brooke Burke,,1.0,False,0.35,0.65
+8,1,Belinda Carlisle,Belinda Carlisle,9.0,9.0,True,0.35,0.65
+8,2,Belinda Carlisle,Belinda Carlisle,9.0,9.0,False,0.35,0.65
+8,3,Belinda Carlisle,Denise Richards,,10.0,False,0.38405683139532576,0.6159431686046742
+8,4,Belinda Carlisle,Steve Wozniak,,11.0,True,0.65,0.35
+8,5,Belinda Carlisle,Steve-O,,9.0,True,0.35,0.65
+8,6,Belinda Carlisle,Steve-O,,8.0,False,0.35,0.65
+8,7,Belinda Carlisle,Lawrence Taylor,,7.0,True,0.35,0.65
+8,8,Belinda Carlisle,Melissa Rycroft,,6.0,True,0.35,0.65
+8,9,Belinda Carlisle,Ty Murray,,5.0,True,0.35,0.65
+8,10,Belinda Carlisle,Ty Murray,,4.0,True,0.35,0.65
+8,11,Belinda Carlisle,Belinda Carlisle,,,False,0.35,0.65
+9,1,Aaron Carter,Macy Gray,2.0,15.0,False,0.6408358443914435,0.3591641556085565
+9,2,Aaron Carter,Kathy Ireland,1.0,13.0,False,0.35,0.65
+9,3,Aaron Carter,Debi Mazar,4.0,10.0,False,0.35,0.65
+9,4,Aaron Carter,Chuck Liddell,8.0,9.0,False,0.35,0.65
+9,5,Aaron Carter,Natalie Coughlin,4.0,8.0,False,0.35,0.65
+9,6,Aaron Carter,Louie Vito,3.0,7.0,False,0.4700315994479424,0.5299684005520575
+9,7,Aaron Carter,Mark Dacascos,2.0,7.0,True,0.35,0.65
+9,8,Aaron Carter,Aaron Carter,4.0,4.0,False,0.35,0.65
+9,9,Aaron Carter,Donny Osmond,,4.0,True,0.35,0.65
+9,10,Aaron Carter,Aaron Carter,,,False,0.35,0.65
+10,1,Aiden Turner,Aiden Turner,10.0,10.0,False,0.35,0.65
+10,2,Aiden Turner,Shannen Doherty,8.0,6.0,False,0.35,0.65
+10,3,Aiden Turner,Buzz Aldrin,7.0,10.0,True,0.35,0.65
+10,4,Aiden Turner,Aiden Turner,8.0,8.0,False,0.35,0.65
+10,5,Aiden Turner,Kate Gosselin,,8.0,True,0.35,0.65
+10,6,Aiden Turner,Jake Pavelka,,7.0,False,0.35,0.65
+10,7,Aiden Turner,Niecy Nash,,6.0,True,0.35,0.65
+10,8,Aiden Turner,Niecy Nash,,5.0,False,0.35,0.65
+10,9,Aiden Turner,Chad Ochocinco,,4.0,True,0.35,0.65
+10,10,Aiden Turner,Aiden Turner,,,False,0.35,0.65
+11,1,Audrina Patridge,David Hasselhoff,5.0,10.0,False,0.35,0.65
+11,2,Audrina Patridge,Michael Bolton,2.0,11.0,True,0.35,0.65
+11,3,Audrina Patridge,Margaret Cho,1.0,10.0,False,0.35,0.65
+11,4,Audrina Patridge,The Situation,3.0,9.0,False,0.35,0.65
+11,5,Audrina Patridge,Bristol Palin,5.0,8.0,True,0.35,0.65
+11,6,Audrina Patridge,Kurt Warner,2.0,7.0,True,0.35,0.65
+11,7,Audrina Patridge,Bristol Palin,,6.0,True,0.35,0.65
+11,8,Audrina Patridge,Kurt Warner,,4.0,False,0.35,0.65
+11,9,Audrina Patridge,Bristol Palin,,4.0,True,0.35,0.65
+11,10,Audrina Patridge,Audrina Patridge,,,False,0.35,0.65
+12,1,Chris Jericho,Chris Jericho,5.0,5.0,True,0.35,0.65
+12,2,Chris Jericho,Mike Catherwood,1.0,9.0,False,0.35,0.65
+12,3,Chris Jericho,Wendy Williams,5.0,10.0,True,0.35,0.65
+12,4,Chris Jericho,Kendra Wilkinson,4.0,9.0,True,0.35,0.65
+12,5,Chris Jericho,Petra Nemcova,2.0,6.0,False,0.35,0.65
+12,6,Chris Jericho,Chris Jericho,7.0,7.0,True,0.35,0.65
+12,7,Chris Jericho,Kendra Wilkinson,,4.0,False,0.35,0.65
+12,8,Chris Jericho,Ralph Macchio,,5.0,True,0.35,0.65
+12,9,Chris Jericho,Ralph Macchio,,4.0,True,0.35,0.65
+12,10,Chris Jericho,Chelsea Kane,,1.0,False,0.35,0.65
+13,1,Carson Kressley,Metta World Peace (Ron),7.0,12.0,True,0.35,0.65
+13,2,Carson Kressley,Chaz Bono,9.0,11.0,True,0.35,0.65
+13,3,Carson Kressley,Nancy Grace,8.0,9.0,True,0.35,0.65
+13,4,Carson Kressley,Chynna Phillips,9.0,6.0,False,0.35,0.65
+13,5,Carson Kressley,Carson Kressley,8.0,8.0,True,0.35,0.65
+13,6,Carson Kressley,Chaz Bono,,7.0,False,0.35,0.65
+13,7,Carson Kressley,Nancy Grace,,6.0,True,0.35,0.65
+13,8,Carson Kressley,Nancy Grace,,5.0,True,0.35,0.65
+13,9,Carson Kressley,Hope Solo,,4.0,True,0.35,0.65
+13,10,Carson Kressley,Carson Kressley,,,False,0.35,0.65
+14,1,Gavin DeGraw,Donald Driver,10.0,8.0,False,0.35,0.65
+14,2,Gavin DeGraw,Martina Navratilova,8.0,12.0,True,0.35,0.65
+14,3,Gavin DeGraw,Jack Wagner,7.0,7.0,False,0.35,0.65
+14,4,Gavin DeGraw,Sherri Sheperd,5.0,9.0,False,0.35,0.65
+14,5,Gavin DeGraw,Gavin DeGraw,9.0,9.0,True,0.35,0.65
+14,6,Gavin DeGraw,Gladys Knight,,8.0,True,0.35,0.65
+14,7,Gavin DeGraw,Melissa Gilbert,,7.0,True,0.35,0.65
+14,8,Gavin DeGraw,Melissa Gilbert,,6.0,True,0.35,0.65
+14,9,Gavin DeGraw,Katherine Jenkins,,4.0,True,0.35,0.65
+14,10,Gavin DeGraw,Donald Driver,,2.0,False,0.35,0.65
+15,1,Apolo Anton Ohno,Pamela Anderson,4.0,13.0,True,0.35,0.65
+15,2,Apolo Anton Ohno,Bristol Palin,4.0,12.0,True,0.35,0.65
+15,3,Apolo Anton Ohno,Drew Lachey,4.0,9.0,True,0.35,0.65
+15,4,Apolo Anton Ohno,Kirstie Alley,7.0,9.0,True,0.35,0.65
+15,5,Apolo Anton Ohno,Apolo Anton Ohno,2.0,2.0,False,0.35,0.65
+15,6,Apolo Anton Ohno,Kelly Monaco,1.0,7.0,True,0.35,0.65
+15,7,Apolo Anton Ohno,Apolo Anton Ohno,6.0,6.0,False,0.35,0.65
+15,8,Apolo Anton Ohno,Kirstie Alley,2.0,7.0,True,0.35,0.65
+15,9,Apolo Anton Ohno,Emmitt Smith,3.0,5.0,True,0.35,0.65
+15,10,Apolo Anton Ohno,Apolo Anton Ohno,,,False,0.35,0.65
+16,1,Alexandra Raisman,Andy Dick,2.0,11.0,True,0.35,0.65
+16,2,Alexandra Raisman,Andy Dick,3.0,5.0,True,0.35,0.65
+16,3,Alexandra Raisman,Wynonna Judd,4.0,11.0,False,0.35,0.65
+16,4,Alexandra Raisman,Lisa Vanderpump,1.0,9.0,False,0.35,0.65
+16,5,Alexandra Raisman,D. L. Hughley,4.0,8.0,False,0.35,0.65
+16,6,Alexandra Raisman,Victor Ortiz,2.0,8.0,True,0.35,0.65
+16,7,Alexandra Raisman,Andy Dick,1.0,7.0,True,0.35,0.65
+16,8,Alexandra Raisman,Sean Lowe,2.0,6.0,True,0.35,0.65
+16,9,Alexandra Raisman,Ingo Rademacher,1.0,5.0,True,0.35,0.65
+16,10,Alexandra Raisman,Jacoby Jones,3.0,4.0,True,0.35,0.65
+17,1,Bill Engvall,Bill Engvall,10.0,10.0,True,0.35,0.65
+17,2,Bill Engvall,Keyshawn Johnson,8.0,11.0,False,0.35,0.65
+17,3,Bill Engvall,Bill Nye,6.0,10.0,False,0.35,0.65
+17,4,Bill Engvall,Valerie Harper,8.0,10.0,True,0.35,0.65
+17,5,Bill Engvall,Leah Remini,8.0,9.0,True,0.35,0.65
+17,6,Bill Engvall,Bill Engvall,8.0,8.0,True,0.35,0.65
+17,7,Bill Engvall,Bill Engvall,8.0,8.0,True,0.35,0.65
+17,8,Bill Engvall,Bill Engvall,7.0,7.0,True,0.35,0.65
+17,9,Bill Engvall,Bill Engvall,6.0,6.0,True,0.35,0.65
+17,10,Bill Engvall,Bill Engvall,5.0,5.0,True,0.35,0.65
+17,11,Bill Engvall,Bill Engvall,4.0,4.0,True,0.35,0.65
+18,1,Charlie White,Billy Dee Williams,1.0,12.0,True,0.35,0.65
+18,2,Charlie White,Billy Dee Williams,1.0,11.0,True,0.35,0.65
+18,3,Charlie White,Amy Purdy,2.0,2.0,False,0.35,0.65
+18,4,Charlie White,Amy Purdy,4.0,3.0,False,0.35,0.65
+18,5,Charlie White,Drew Carey,3.0,9.0,True,0.35,0.65
+18,6,Charlie White,Drew Carey,3.0,7.0,False,0.35,0.65
+18,7,Charlie White,NeNe Leakes,5.0,7.0,True,0.35,0.65
+18,8,Charlie White,Candace Cameron Bure,1.0,4.0,True,0.35,0.65
+18,9,Charlie White,Candace Cameron Bure,3.0,5.0,True,0.35,0.65
+18,10,Charlie White,Candace Cameron Bure,,4.0,True,0.35,0.65
+19,1,Antonio Sabato Jr.,Lolo Jones,10.0,12.0,True,0.35,0.65
+19,2,Antonio Sabato Jr.,Michael Waltrip,5.0,12.0,True,0.35,0.65
+19,3,Antonio Sabato Jr.,Randy Couture,8.0,11.0,True,0.35,0.65
+19,4,Antonio Sabato Jr.,Jonathan Bennett,6.0,10.0,True,0.35,0.65
+19,5,Antonio Sabato Jr.,Antonio Sabato Jr.,6.0,6.0,True,0.35,0.65
+19,6,Antonio Sabato Jr.,Jonathan Bennett,8.0,5.0,False,0.35,0.65
+19,7,Antonio Sabato Jr.,Antonio Sabato Jr.,7.0,7.0,False,0.35,0.65
+19,8,Antonio Sabato Jr.,Michael Waltrip,,7.0,True,0.35,0.65
+19,9,Antonio Sabato Jr.,Tommy Chong,,6.0,True,0.35,0.65
+19,10,Antonio Sabato Jr.,Tommy Chong,,5.0,True,0.35,0.65
+19,11,Antonio Sabato Jr.,Bethany Mota,,4.0,True,0.35,0.65
+20,1,Charlotte McKinney,Charlotte McKinney,11.0,11.0,True,0.35,0.65
+20,2,Charlotte McKinney,Chris Soules,11.0,12.0,True,0.35,0.65
+20,3,Charlotte McKinney,Charlotte McKinney,10.0,10.0,False,0.35,0.65
+20,4,Charlotte McKinney,Chris Soules,,10.0,True,0.35,0.65
+20,5,Charlotte McKinney,Robert Herjavec,,9.0,True,0.35,0.65
+20,6,Charlotte McKinney,Patti LaBelle,,6.0,False,0.35,0.65
+20,7,Charlotte McKinney,Robert Herjavec,,6.0,True,0.35,0.65
+20,8,Charlotte McKinney,Robert Herjavec,,6.0,False,0.35,0.65
+20,9,Charlotte McKinney,Noah Galloway,,4.0,True,0.35,0.65
+20,10,Charlotte McKinney,Charlotte McKinney,,,False,0.35,0.65
+21,1,Alexa PenaVega,Alek Skarlatos,5.0,5.0,False,0.35,0.65
+21,2,Alexa PenaVega,Chaka Khan,3.0,13.0,True,0.41473913876150376,0.5852608612384962
+21,3,Alexa PenaVega,Alek Skarlatos,1.0,3.0,True,0.35,0.65
+21,4,Alexa PenaVega,Gary Busey,8.0,10.0,False,0.35,0.65
+21,5,Alexa PenaVega,Alek Skarlatos,1.0,7.0,True,0.35,0.65
+21,6,Alexa PenaVega,Paula Deen,7.0,9.0,True,0.35,0.65
+21,7,Alexa PenaVega,Nick Carter,5.0,6.0,True,0.35,0.65
+21,8,Alexa PenaVega,Andy Grammer,5.0,7.0,False,0.35,0.65
+21,9,Alexa PenaVega,Tamar Braxton,1.0,6.0,True,0.35,0.65
+21,10,Alexa PenaVega,Alek Skarlatos,,3.0,False,0.35,0.65
+21,11,Alexa PenaVega,Alek Skarlatos,,4.0,True,0.35,0.65
+22,1,Antonio Brown,Doug Flutie,4.0,11.0,True,0.35,0.65
+22,2,Antonio Brown,Geraldo Rivera,9.0,12.0,True,0.35,0.65
+22,3,Antonio Brown,Mischa Barton,8.0,11.0,True,0.35,0.65
+22,4,Antonio Brown,Doug Flutie,3.0,10.0,True,0.35,0.65
+22,5,Antonio Brown,Antonio Brown,9.0,9.0,True,0.35,0.65
+22,6,Antonio Brown,Doug Flutie,3.0,9.0,True,0.35,0.65
+22,7,Antonio Brown,Von Miller,5.0,5.0,False,0.35,0.65
+22,8,Antonio Brown,Wanya Morris,5.0,6.0,True,0.35,0.65
+22,9,Antonio Brown,Antonio Brown,5.0,5.0,True,0.35,0.65
+22,10,Antonio Brown,Antonio Brown,,,False,0.35,0.65
+23,1,Amber Rose,Amber Rose,9.0,9.0,True,0.35,0.65
+23,2,Amber Rose,Jake T. Austin,10.0,10.0,False,0.35,0.65
+23,3,Amber Rose,Rick Perry,8.0,11.0,False,0.35,0.65
+23,4,Amber Rose,Babyface,4.0,11.0,True,0.35,0.65
+23,5,Amber Rose,Amber Rose,6.0,6.0,False,0.35,0.65
+23,6,Amber Rose,Amber Rose,9.0,9.0,False,0.35,0.65
+23,7,Amber Rose,Marilu Henner,,8.0,True,0.35,0.65
+23,8,Amber Rose,Marilu Henner,,7.0,True,0.35,0.65
+23,9,Amber Rose,Marilu Henner,,5.0,False,0.35,0.65
+23,10,Amber Rose,Calvin Johnson Jr.,,5.0,True,0.35,0.65
+23,11,Amber Rose,Jana Kramer,,4.0,True,0.35,0.65
+24,1,Bonner Bolton,Bonner Bolton,9.0,9.0,False,0.35,0.65
+24,2,Bonner Bolton,Chris Kattan,5.0,11.0,False,0.35,0.65
+24,3,Bonner Bolton,Charo,9.0,9.0,False,0.35,0.65
+24,4,Bonner Bolton,Mr. T,5.0,10.0,True,0.35,0.65
+24,5,Bonner Bolton,David Ross,8.0,9.0,True,0.35,0.65
+24,6,Bonner Bolton,Nick Viall,6.0,8.0,True,0.35,0.65
+24,7,Bonner Bolton,Nick Viall,7.0,5.0,False,0.35,0.65
+24,8,Bonner Bolton,Bonner Bolton,5.0,5.0,True,0.35,0.65
+24,9,Bonner Bolton,David Ross,,4.0,True,0.35,0.65
+24,10,Bonner Bolton,Bonner Bolton,,,False,0.35,0.65
+25,1,Barbara Corcoran,Barbara Corcoran,13.0,13.0,True,0.35,0.65
+25,2,Barbara Corcoran,Barbara Corcoran,13.0,13.0,True,0.35,0.65
+25,3,Barbara Corcoran,Barbara Corcoran,,,False,0.35,0.65
+25,4,Barbara Corcoran,Nick Lachey,,11.0,True,0.35,0.65
+25,5,Barbara Corcoran,Nick Lachey,,10.0,True,0.35,0.65
+25,6,Barbara Corcoran,Nick Lachey,,9.0,True,0.35,0.65
+25,7,Barbara Corcoran,Nikki Bella,,8.0,True,0.35,0.65
+25,8,Barbara Corcoran,Victoria Arlen,,5.0,True,0.35,0.65
+25,9,Barbara Corcoran,Drew Scott,,5.0,True,0.35,0.65
+25,10,Barbara Corcoran,Drew Scott,,4.0,True,0.35,0.65
+26,1,Arike Ogunbowale,Johnny Damon,7.0,9.0,False,0.35,0.65
+26,2,Arike Ogunbowale,Kareem Abdul-Jabbar,3.0,8.0,True,0.35,0.65
+26,3,Arike Ogunbowale,Jennie Finch Daigle,,6.0,True,0.4089572415484913,0.5910427584515088
+26,4,Arike Ogunbowale,Adam Rippon,,1.0,False,0.35,0.65
+27,1,Danelle Umstead,Nikki Glaser,9.0,12.0,False,0.35,0.65
+27,2,Danelle Umstead,Danelle Umstead,11.0,11.0,False,0.35,0.65
+27,3,Danelle Umstead,Joe Amabile,,11.0,True,0.35,0.65
+27,4,Danelle Umstead,Joe Amabile,,10.0,True,0.35,0.65
+27,5,Danelle Umstead,Bobby Bones,,8.0,True,0.35,0.65
+27,6,Danelle Umstead,John Schneider,,9.0,True,0.35,0.65
+27,7,Danelle Umstead,DeMarcus Ware,,6.0,False,0.35,0.65
+27,8,Danelle Umstead,Joe Amabile,,5.0,True,0.35,0.65
+27,9,Danelle Umstead,Bobby Bones,,4.0,True,0.35,0.65
+28,1,James Van Der Beek,Ally Brooke,1.0,7.0,True,0.35,0.65
+28,2,James Van Der Beek,Lamar Odom,3.0,12.0,True,0.5339016647661873,0.4660983352338127
+28,3,James Van Der Beek,Hannah Brown,3.0,5.0,True,0.35,0.65
+28,4,James Van Der Beek,Sean Spicer,6.0,9.0,True,0.6137862671810659,0.3862137328189341
+28,5,James Van Der Beek,Hannah Brown,2.0,4.0,True,0.35,0.65
+28,6,James Van Der Beek,Sean Spicer,1.0,9.0,True,0.35,0.65
+28,7,James Van Der Beek,Sean Spicer,1.0,8.0,True,0.35,0.65
+28,8,James Van Der Beek,Sean Spicer,1.0,7.0,True,0.36169181717808785,0.6383081828219122
+28,9,James Van Der Beek,Hannah Brown,3.0,4.0,False,0.5391481565876621,0.46085184341233787
+28,10,James Van Der Beek,Lauren Alaina,5.0,3.0,False,0.35,0.65
+28,11,James Van Der Beek,Hannah Brown,,3.0,True,0.35,0.65
+29,1,AJ McLean,AJ McLean,6.0,6.0,False,0.35,0.65
+29,2,AJ McLean,Skai Jackson,5.0,14.0,False,0.48276876126870844,0.5172312387312916
+29,3,AJ McLean,Anne Heche,7.0,13.0,True,0.65,0.35
+29,4,AJ McLean,Jeannie Mai,3.0,10.0,False,0.35,0.65
+29,5,AJ McLean,Chrishell Stause,5.0,11.0,True,0.5159628644068269,0.4840371355931731
+29,6,AJ McLean,Skai Jackson,1.0,11.0,True,0.3982022416911552,0.6017977583088447
+29,7,AJ McLean,Kaitlyn Bristowe,5.0,9.0,False,0.35,0.65
+29,8,AJ McLean,Nelly,5.0,8.0,True,0.35,0.65
+29,9,AJ McLean,Nelly,6.0,7.0,True,0.35,0.65
+29,10,AJ McLean,Nelly,,6.0,True,0.35,0.65
+29,11,AJ McLean,AJ McLean,,,False,0.35,0.65
+30,1,Brian Austin Green,Brian Austin Green,9.0,9.0,True,0.35,0.65
+30,2,Brian Austin Green,Matt James,13.0,14.0,False,0.6453276828384971,0.35467231716150294
+30,3,Brian Austin Green,Cody Rigsby,12.0,14.0,True,0.35,0.65
+30,4,Brian Austin Green,Matt James,13.0,12.0,False,0.35,0.65
+30,5,Brian Austin Green,Iman Shumpert,,11.0,True,0.35,0.65
+30,6,Brian Austin Green,"Mike ""The Miz"" Mizanin",,8.0,False,0.35,0.65
+30,7,Brian Austin Green,Iman Shumpert,,6.0,False,0.35,0.65
+30,8,Brian Austin Green,Iman Shumpert,,7.0,False,0.368155750013736,0.631844249986264
+30,9,Brian Austin Green,Cody Rigsby,,6.0,True,0.35,0.65
+30,10,Brian Austin Green,Amanda Kloots,,3.0,False,0.35,0.65
+31,1,Cheryl Ladd,Vinny Guadagnino,10.0,16.0,True,0.65,0.35
+31,2,Cheryl Ladd,Cheryl Ladd,15.0,15.0,True,0.4163950403483178,0.5836049596516821
+31,3,Cheryl Ladd,Vinny Guadagnino,13.0,14.0,True,0.3928187163718039,0.6071812836281961
+31,4,Cheryl Ladd,Joseph Baena,,11.0,False,0.4458128184922012,0.5541871815077988
+31,5,Cheryl Ladd,Vinny Guadagnino,,12.0,True,0.35,0.65
+31,6,Cheryl Ladd,Vinny Guadagnino,,10.0,True,0.35,0.65
+31,7,Cheryl Ladd,Vinny Guadagnino,,9.0,True,0.35,0.65
+31,8,Cheryl Ladd,Vinny Guadagnino,,8.0,True,0.4246867771315977,0.5753132228684024
+31,9,Cheryl Ladd,Trevor Donovan,,6.0,True,0.35,0.65
+31,10,Cheryl Ladd,Charli D'Amelio,,1.0,False,0.35,0.65
+32,1,Adrian Peterson,Tyson Beckford,5.0,12.0,False,0.65,0.35
+32,2,Adrian Peterson,Mauricio Umansky,10.0,13.0,True,0.5306354985658946,0.46936450143410535
+32,3,Adrian Peterson,Adrian Peterson,11.0,11.0,False,0.6463403687647423,0.3536596312352577
+32,4,Adrian Peterson,Alyson Hannigan,6.0,10.0,False,0.35,0.65
+32,5,Adrian Peterson,Harry Jowsey,,10.0,True,0.40619878967300255,0.5938012103269974
+32,6,Adrian Peterson,Harry Jowsey,,9.0,False,0.35,0.65
+32,7,Adrian Peterson,Harry Jowsey,,8.0,False,0.35,0.65
+32,8,Adrian Peterson,Harry Jowsey,,7.0,True,0.35,0.65
+32,9,Adrian Peterson,Alyson Hannigan,,5.0,True,0.484927488720409,0.5150725112795911
+32,10,Adrian Peterson,Adrian Peterson,,,False,0.35,0.65
+32,11,Adrian Peterson,Adrian Peterson,,,False,0.35,0.65
+33,1,Anna Delvey,Anna Delvey,8.0,8.0,False,0.35,0.65
+33,2,Anna Delvey,Eric Roberts,11.0,12.0,False,0.4402270855350391,0.5597729144649609
+33,3,Anna Delvey,Reginald VelJohnson,,11.0,True,0.4916990044338589,0.5083009955661411
+33,4,Anna Delvey,Dwight Howard ,,9.0,True,0.35,0.65
+33,5,Anna Delvey,Stephen Nedoroscik,,6.0,False,0.35,0.65
+33,6,Anna Delvey,Ilona Maher,,7.0,True,0.35,0.65
+33,7,Anna Delvey,Danny Amendola,,5.0,False,0.35,0.65
+33,8,Anna Delvey,Anna Delvey,,,False,0.35,0.65
+33,9,Anna Delvey,Anna Delvey,,,False,0.35,0.65
+34,1,Andy Richter,Andy Richter,13.0,13.0,True,0.35,0.65
+34,2,Andy Richter,Corey Feldman,13.0,14.0,False,0.35,0.65
+34,3,Andy Richter,Andy Richter,11.0,11.0,False,0.35,0.65
+34,4,Andy Richter,Andy Richter,11.0,11.0,True,0.35,0.65
+34,5,Andy Richter,Andy Richter,10.0,10.0,True,0.35,0.65
+34,6,Andy Richter,Andy Richter,10.0,10.0,True,0.4067568077616446,0.5932431922383554
+34,7,Andy Richter,Andy Richter,9.0,9.0,True,0.35,0.65
+34,8,Andy Richter,Andy Richter,8.0,8.0,True,0.35,0.65
+34,9,Andy Richter,Elaine Hendrix,7.0,6.0,True,0.487879945268597,0.512120054731403
+34,10,Andy Richter,Dylan Efron,,6.0,True,0.35,0.65
+34,11,Andy Richter,Alix Earle,,1.0,False,0.35,0.65
